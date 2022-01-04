@@ -44,7 +44,7 @@
     "name": "Budget Tracker",
     "short_name": "Budget",
     "display": "standalone",
-    "start_url": "public/js/index.js",
+    "start_url": "public/index.html",
     "background_color": "#ffffff",
     "theme_color": "#ffffff"
   } 

@@ -5,7 +5,7 @@
 ## Description
 This application allows users to track their money even while offline. When transactions are made offline, the totals are updated when brought back online.
 
-![alt text](https://github.com/mmelendez3/social-network/blob/main/assets/img/budget.png)
+![alt text](https://github.com/mmelendez3/Budget-Tracker-PWA/blob/main/assets/img/budget.png)
 
 ## Table of Contents
 - [Description](#description)
